@@ -1,0 +1,43 @@
+* {
+    font-size: 3vmin;
+    font-weight: 300;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.main {
+    padding-top: 20vmin;
+    padding-bottom: 20vmin;
+}
+
+h2 {
+    font-weight: 700;
+}
+
+.section {
+    padding-top: 5vmin;
+}
+
+.nav {
+    text-transform: uppercase;
+}
+
+.names {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.welcome {
+    padding-top: 50px;
+}
+
+.logo {
+    height: 200px;
+}
+
+.tag-line {
+    padding-bottom: 20px;
+}
