@@ -40,9 +40,11 @@ h3 {
     margin-bottom: 0;
 }
 
+/*
 .welcome {
     padding-top: 50px;
 }
+*/
 
 .well-sm {
     /*background-color: #A7C4C4;*/
@@ -58,6 +60,7 @@ h3 {
 
 .tag-line {
     padding-bottom: 20px;
+    padding-top: 20px;
 }
 
 em {
