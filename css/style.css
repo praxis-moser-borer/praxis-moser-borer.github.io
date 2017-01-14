@@ -44,11 +44,12 @@ h3 {
     padding-top: 50px;
 }
 
-.well {
+.well-sm {
     /*background-color: #A7C4C4;*/
     background-color: #E3FFFF;
     border: 0;
     border-radius: 0;
+    padding: 15px;
 }
 
 .logo {
