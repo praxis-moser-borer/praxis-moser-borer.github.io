@@ -58,6 +58,12 @@ h3 {
     height: 200px;
 }
 
+.logo-small {
+    height: 40px;
+    margin-top: 5px;
+}
+
+
 .tag-line {
     padding-bottom: 20px;
     padding-top: 20px;
