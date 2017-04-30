@@ -12,6 +12,15 @@ html {
     min-height: 100%;
 }
 
+a {
+    color: #4B9090;
+    cursor: pointer;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
 .main {
     padding-top: 20vmin;
     padding-bottom: 20vmin;
@@ -40,6 +49,10 @@ h3 {
     font-size: 150%;
 }
 
+.navbar .nav > li.active > a {
+    border-bottom-color: #69A9A9;
+}
+
 .names {
     margin-top: 0;
     margin-bottom: 0;
@@ -53,7 +66,7 @@ h3 {
 
 .well {
     /*background-color: #A7C4C4;*/
-    background-color: #E3FFFF;
+    background-color: #F2FCFC;
     border: 0;
     border-radius: 0;
     padding: 15px;
